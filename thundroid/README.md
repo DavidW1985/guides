@@ -72,9 +72,9 @@ I decided to try this setup, ordered the Odroid HC2 and, after setting it up and
 
 I ordered the following items directly with Hardkernel in Singapore. There are [resellers](http://www.hardkernel.com/main/distributor.php) available worldwide, but not for Switzerland, unfortunately.
 
-* [Hardkernel Odroid HC2](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G151505170472) ($54)
-* [Power adapter & cord](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G151578376044) ($7)
-* optional: [Odroid HC2 case](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G151596669222) ($5)
+* [Hardkernel Odroid HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two/) ($54)
+* [Power adapter & cord](https://www.hardkernel.com/shop/12v-2a-power-supply-unit/) ($5.90)
+* optional: [Odroid HC2 case](https://www.hardkernel.com/shop/odroid-hc2-case-clear/) ($5)
 
 You also need the following:
 
